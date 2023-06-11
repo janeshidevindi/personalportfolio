@@ -57,9 +57,34 @@ The target audience is a diverse group of people, including:
   - Apple Safari
   - Microsoft Edge
   - Internet Explorer
-### Devices Tested
+### Devices Tested :
   - iPhone X
   - iPhone 8
   - Microsoft Surfacebook Pro
   - Samsung Tablet
   - Ultra Large Samsung Display
+  
+ # Deployment
+To deploy this page to GitHub Pages from its GitHub repository:
+
+1. Log into GitHub.
+2. From the list of repositories on the screen, select Rorywork/kiss-and-makeup
+Go to settings on the right-hand side of the page and click on it.
+Scroll down to the GitHub Pages section.
+Under Source click the drop-down menu labeled None and select Master Branch
+On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+A working link to the website can be found here.
+How to run this project locally
+To clone this project from GitHub:
+
+Follow this link to the Project GitHub repository.
+Under the repository name, click "Clone or download".
+In the Clone with HTTPs section, copy the clone URL for the repository.
+In your local IDE open Git Bash.
+Change the current working directory to the location where you want the cloned directory to be made.
+Type git clone, and then paste the URL you copied in Step 3.
+git clone https://github.com/USERNAME/REPOSITORY
+Press Enter. Your local clone will be created.
+Further reading and troubleshooting on cloning a repository from GitHub here.
+  
