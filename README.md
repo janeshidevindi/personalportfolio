@@ -74,8 +74,7 @@ The target audience is a diverse group of people, including:
 5. Under Source click the drop-down menu labeled None and select **Master Branch**
 6. On selecting **Master Branch** the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
-8. Link:
-[A working link to the website can be found here.](https://github.com/janeshidevindi/personalportfolio.git "A working link to the website can be found here.")
+8.[A working link to the website can be found here.](https://github.com/janeshidevindi/personalportfolio.git "A working link to the website can be found here.")
 
 ## How to run this project locally
 1. To clone this project from GitHub:
