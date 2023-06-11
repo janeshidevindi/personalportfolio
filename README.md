@@ -65,26 +65,26 @@ The target audience is a diverse group of people, including:
   - Ultra Large Samsung Display
   
  # Deployment
-To deploy this page to GitHub Pages from its GitHub repository:
+## To deploy this page to GitHub Pages from its GitHub repository:
 
 1. Log into GitHub.
-2. From the list of repositories on the screen, select Rorywork/kiss-and-makeup
-Go to settings on the right-hand side of the page and click on it.
-Scroll down to the GitHub Pages section.
-Under Source click the drop-down menu labeled None and select Master Branch
-On selecting Master Branch the page is automatically refreshed, the website is now deployed.
-Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
-A working link to the website can be found here.
-How to run this project locally
-To clone this project from GitHub:
+2. From the list of repositories on the screen, select 'personal portfolio'
+3. Go to settings on the right-hand side of the page and click on it.
+4. Scroll down to the GitHub Pages section.
+5. Under Source click the drop-down menu labeled None and select 'Master Branch'
+6. On selecting 'Master Branch' the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+8. A working link to the website can be found here.
 
-Follow this link to the Project GitHub repository.
-Under the repository name, click "Clone or download".
-In the Clone with HTTPs section, copy the clone URL for the repository.
-In your local IDE open Git Bash.
-Change the current working directory to the location where you want the cloned directory to be made.
-Type git clone, and then paste the URL you copied in Step 3.
-git clone https://github.com/USERNAME/REPOSITORY
-Press Enter. Your local clone will be created.
-Further reading and troubleshooting on cloning a repository from GitHub here.
+## How to run this project locally
+1. To clone this project from GitHub:
+2. Follow this link to the Project GitHub repository.
+3. Under the repository name, click "Clone or download".
+4. In the Clone with HTTPs section, copy the clone URL for the repository.
+5. In your local IDE open Git Bash.
+6. Change the current working directory to the location where you want the cloned directory to be made.
+7. Type git clone, and then paste the URL you copied in Step 3.
+8. git clone https://github.com/USERNAME/REPOSITORY
+9. Press Enter. Your local clone will be created.
+10. Further reading and troubleshooting on cloning a repository from GitHub here.
   
