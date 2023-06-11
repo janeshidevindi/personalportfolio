@@ -34,9 +34,9 @@ The target audience is a diverse group of people, including:
 
 |Technologies	|Website|	Comments|
 |---|---|---|
-HTML	W3Schools, Stack Overflow	I used these websites to check for proper syntax for my project
-CSS	W3Schools, Charliepark	I used this website to check for different ways to style my CSS.
-Icons	Font Awesome, Flaticon	I used these websites to download the icons for my project.
-JQuery	JQuery	I used it to to simplify HTML DOM tree traversal, manipulation, as well as CSS animation.
-Javascript	Javascript	I used this programming language as it enables my page to be responsive and it is an essential part of web development.
-Font	Google Fonts	It is an open source designer web font and I used it to design the typography in my project.
+|HTML|	Visual studio coide, Stack Overflow	|I used these websites to check for proper syntax for my project|
+|CSS	Visual studio code, Charliepark|	I used this website to check for different ways to style my CSS.|
+|Icons|	Font Awesome, Flaticon|	I used these websites to download the icons for my project.|
+|JQuery|	JQuery|	I used it to to simplify HTML DOM tree traversal, manipulation, as well as CSS animation.|
+|Javascript|	Javascript|	I used this programming language as it enables my page to be responsive and it is an essential part of web development.|
+|Font|	Google Fonts|	It is an open source designer web font and I used it to design the typography in my project.|
