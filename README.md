@@ -31,12 +31,34 @@ The target audience is a diverse group of people, including:
 - A group of people, requiring a cost-effective makeup session for a particular function (like wedding event)
 - Business owner, who can gather initial customer requirements and contact details through the application
 
+# Technologies Used
 
 |Technologies	|Website|	Comments|
 |---|---|---|
 |HTML|	Visual studio coide, Stack Overflow	|I used these websites to check for proper syntax for my project|
-|CSS	Visual studio code, Charliepark|	I used this website to check for different ways to style my CSS.|
+|CSS	|Visual studio code, Charliepark|	I used this website to check for different ways to style my CSS.|
 |Icons|	Font Awesome, Flaticon|	I used these websites to download the icons for my project.|
 |JQuery|	JQuery|	I used it to to simplify HTML DOM tree traversal, manipulation, as well as CSS animation.|
 |Javascript|	Javascript|	I used this programming language as it enables my page to be responsive and it is an essential part of web development.|
 |Font|	Google Fonts|	It is an open source designer web font and I used it to design the typography in my project.|
+
+# Testing
+- W3
+I conducted automated testing using the W3 HTML checker, this displays any syntax errors within the HTML code, I ran it on each page and then went through and fixed each error one by one, until the validator produced no errors. This required me to run it several times until it was error free.
+
+- Audits / Chrome Dev Tools
+I used Chrome Dev Tools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my client's request.
+
+## Manual Testing
+I have tested each page on the following  browsers:
+
+  - Google Chrome
+  - Apple Safari
+  - Microsoft Edge
+  - Internet Explorer
+Devices Tested
+  - iPhone X
+  - iPhone 8
+  - Microsoft Surfacebook Pro
+  - Samsung Tablet
+  - Ultra Large Samsung Display
