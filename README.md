@@ -8,8 +8,8 @@ This MERN stack website is for the Makeup by Janeshi business, a freelance makeu
 # Functionality / Features
 ## userside
 - Several pages
-Home
-Services
+-- Home
+-- Services
 Portfolio
 FAQs
 Contact
