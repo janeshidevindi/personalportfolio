@@ -9,11 +9,11 @@ This MERN stack website is for the Makeup by Janeshi business, a freelance makeu
 ## userside
 - Several pages
    - Home
-- About
-- Gallery
-- Skills
-- Services
-- Contact
+   - About
+   - Gallery
+   - Skills
+   - Services
+   - Contact
 - Responsive
 - Dynamic Contact Form (Changes based on the requirements of the customer, with some fields being hidden or revealed as required)
 - Database for gallery images, testimonials, services as well as client contact / requirements information
