@@ -68,11 +68,11 @@ The target audience is a diverse group of people, including:
 ## To deploy this page to GitHub Pages from its GitHub repository:
 
 1. Log into GitHub.
-2. From the list of repositories on the screen, select 'personal portfolio'
+2. From the list of repositories on the screen, select **personal portfolio**
 3. Go to settings on the right-hand side of the page and click on it.
 4. Scroll down to the GitHub Pages section.
-5. Under Source click the drop-down menu labeled None and select 'Master Branch'
-6. On selecting 'Master Branch' the page is automatically refreshed, the website is now deployed.
+5. Under Source click the drop-down menu labeled None and select **Master Branch**
+6. On selecting **Master Branch** the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
 8. A working link to the website can be found here.
 
