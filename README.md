@@ -43,20 +43,21 @@ The target audience is a diverse group of people, including:
 |Font|	Google Fonts|	It is an open source designer web font and I used it to design the typography in my project.|
 
 # Testing
-- W3
-I conducted automated testing using the W3 HTML checker, this displays any syntax errors within the HTML code, I ran it on each page and then went through and fixed each error one by one, until the validator produced no errors. This required me to run it several times until it was error free.
+## W3
 
-- Audits / Chrome Dev Tools
-I used Chrome Dev Tools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my client's request.
+- I conducted automated testing using the W3 HTML checker, this displays any syntax errors within the HTML code, I ran it on each page and then went through and fixed each error one by one, until the validator produced no errors. This required me to run it several times until it was error free.
+
+## Audits / Chrome Dev Tools
+- I used Chrome Dev Tools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my client's request.
 
 ## Manual Testing
-I have tested each page on the following  browsers:
+### I have tested each page on the following  browsers:
 
   - Google Chrome
   - Apple Safari
   - Microsoft Edge
   - Internet Explorer
-Devices Tested
+### Devices Tested
   - iPhone X
   - iPhone 8
   - Microsoft Surfacebook Pro
