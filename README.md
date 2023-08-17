@@ -40,7 +40,7 @@ The target audience is a diverse group of people, including:
 |Icons|	Font Awesome, Flaticon|	I used these websites to download the icons for my project.|
 |JQuery|	JQuery|	I used it to to simplify HTML DOM tree traversal, manipulation, as well as CSS animation.|
 |Javascript|	Javascript|	I used this programming language as it enables my page to be responsive and it is an essential part of web development.|
-|Font|	Google Fonts|	It is an open source designer web font and I used it to design the typography in my project.|
+|Php|	Visual studio code,Php desktop chrome,Infinity free|Infinity free in a free hosting site,Php desktop chrome can handle php files easity|
 
 # Testing
 ## W3
@@ -49,6 +49,12 @@ The target audience is a diverse group of people, including:
 
 ## Audits / Chrome Dev Tools
 - I used Chrome Dev Tools to run audits on the performance, accessibility and best practices on the website for both mobile and desktop layouts. I then took on board the feedback and made changes to my website where necessary in order to achieve higher scores. I came to the conclusion some of the advice around accessibility would have hindered the design of the website so I made improvements where I could without majorly affecting the current design, as per my client's request.
+
+  ## Php desktop chrome
+  For those who have used WampServer, Xamp or EasyPhp, it won't be a problem to understand the concept. When you are using these local servers, you usually create your projects into a particular folder called www, htdocs, or localweb. It differs from one server to another, but the concept remains the same. That particular folder helps your webserver to know where to run your application (website) from.
+
+
+PHP Desktop works the same way.But without receive a 404 error. The difference is that PHP Desktop does not require any particular installation; it is an all-in-one portable set of all these local servers have and it does all you can do with WampServer or Xamp and others in the same family.
 
 ## Manual Testing
 ### I have tested each page on the following  browsers:
@@ -74,7 +80,7 @@ The target audience is a diverse group of people, including:
 5. Under Source click the drop-down menu labeled None and select **Master Branch**
 6. On selecting **Master Branch** the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
-8. [A working link to the website can be found here.](https://github.com/janeshidevindi/personalportfolio.git "A working link to the website can be found here.")
+8. [A working link to the website can be found here.](  http://makeupartistpersonalportpolio.rf.gd/ )
 
 ## How to run this project locally
 1. To clone this project from GitHub:
