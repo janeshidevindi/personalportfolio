@@ -80,7 +80,7 @@ PHP Desktop works the same way.But without receive a 404 error. The difference i
 5. Under Source click the drop-down menu labeled None and select **Master Branch**
 6. On selecting **Master Branch** the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
-8. [A working link to the website can be found here.](  http://makeupartistpersonalportpolio.rf.gd/ )
+8. [A working link to the website can be found here.](  http://makeupartistpersonalportpolio.rf.gd/ ) Makeup artist personal portfolio website.
 
 ## How to run this project locally
 1. To clone this project from GitHub:
