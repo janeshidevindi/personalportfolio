@@ -1,0 +1,277 @@
+
+  
+<!DOCTYPE html> 
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title>  Portfolio website </title>
+    <link rel="stylesheet" href="1.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+
+  <!-- Move to up bottom -->
+  <div class="scroll-button">
+    <a href="#home"><i class="fas fa-arrow-up"></i></a>
+  </div> 
+
+
+  <!-- navigation menu -->
+    <nav>
+      <div class="navbar">
+        <div class="logo"><a href="#">Portfolio.</a></div>
+        <ul class="menu">
+          <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#services">Services</a></li> 
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+          <div class="cancel-btn">
+            <i class="fas fa-times"></i>
+          </div>
+       
+      </div>
+      <div class="menu-btn">
+        <i class="fas fa-bars"></i>
+      </div>
+    </nav>
+    
+  <!-- Home Section Start -->
+  <section class="home" id="home">
+    <div class="home-content">
+      <div class="text">
+        <div class="text-one">Hello,</div>
+        <div class="text-two">I'm Janeshi Senevirathna</div>
+        <div class="text-three">Professional Makeup Artist</div>
+        <div class="text-four"></div>” I believe all women are pretty without makeup, but with the right makeup can be pretty powerful “
+      </div>
+      <div class="button">
+        <button>Hire Me</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section Start -->
+  <section class="about" id="about">
+    <div class="content">
+      <div class="title"><span>About Me</span></div>
+      <div class="about-details">
+        <div class="left">
+          <img decoding="async" src="img2.jpg" alt="Portfolio">
+        </div>
+        <div class="right">
+          <div class="topic">Makeup Is My Art</div>
+          <p>Hi I am Janeshi Senevirathna ! I am 25 years old. I love people and people love to feel beautiful, which is the reason I have spent last 2 years engulfed in doing makeup. I believe if you feel comfortable in your skin, then you can spend your energy loving other and enjoying life instead of worrying and self conscious. Is the makeup is the best way to gain self confidence? No way! But it can help a little, plus it’s FUN ! So I hope I can help your life be a little bit happier, and perhaps more colourful.</p>
+          <div class="button">
+            <button>Download CV</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- My Skill Section Start -->
+  <section class="skills" id="skills">
+    <div class="content">
+      <div class="title"><span>My Skills</span></div>
+      <div class="skills-details">
+        <div class="text">
+          <div class="topic">Skills Reflects Our Experinece</div>
+          <p>Professional makeup artists have a plethora of possibilities to demonstrate their abilities, ranging from high fashion runways and magazine editorials to celebrity styling and film/theater. Being an Makeup artist today is a lot easier than it was 10 years ago, thanks to the proliferation of social media tutorials and more industry awareness – but that doesn’t mean we can skimp on the key skills.</p>
+          <div class="experience">
+            <div class="num">10</div>
+            <div class="exp">Years Of <br> Experience</div>
+          </div>
+        </div>
+        <div class="boxes">
+          <div class="box">
+            <div class="topic">COLOR EFFECTS</div>
+            <div class="per">90%</div>
+          </div>
+          <div class="box">
+            <div class="topic">COMMUNICATION</div>
+            <div class="per">80%</div>
+          </div>
+          <div class="box">
+            <div class="topic">TIME MANAGEMENT</div>
+            <div class="per">70%</div>
+          </div>
+          <div class="box">
+            <div class="topic">CREATIVITY</div>
+            <div class="per">100%</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- My Services Section Start -->
+  <section class="services" id="services">
+    <div class="content">
+      <div class="title"><span>My Services</span></div>
+      <div class="boxes">
+        <div class="box">
+          <div class="icon">
+            <i class= "fas fa-quidditch"></i>
+          </div>
+          <div class="topic">Apply Makeup</div>
+    <p>Apply makeup to enhance the appearance of actors in stage and television performances after carefully assessing their skin type.</p>
+        </div>
+        <div class="box">
+          <div class="icon">
+            <i class="fa-solid fa-paintbrush-fine"></i>
+          </div>
+          <div class="topic">Remove Makeup</div>
+          <p>Remove makeup to prevent irritation, acne, breakouts, pimples, skin ageing, and promote skin renewal by sloughing off dead skin cells.</p>
+        </div>
+        <div class="box">
+          <div class="icon">
+            <i class="fa-regular fa-store"></i>
+          </div>
+          <div class="topic">Stock</div>
+          <p>Order cosmetics and maintain stock of over 50 product types.</p>
+        </div>
+        <div class="box">
+          <div class="icon">
+            <i class= "fas fa-quidditch"></i>
+          </div>
+          <div class="topic">Special Event Makeup</div>
+          <p>Apply makeup to clients before special events , including weddings, photo shoots, fashion shows, award ceremonies.</p>
+        </div>
+        <div class="box">
+          <div class="icon">
+            <i class="fa-light fa-user"></i>
+          </div>
+          <div class="topic">Advice</div>
+        <p>Concealing imperfections is key of makeup, but it is also important to keep skin healthy,So that the makeup looks its best.Therefore advice and skincare advice done to you. </p>
+        </div>
+        <div class="box">
+          <div class="icon">
+            <i class="fa-solid fa-wand-magic-sparkles"></i>
+          </div>
+          <div class="topic">Makeup Lessons</div>
+          <p>Would not you love to know how to quickly do you own makeup perfectly,Join with me</p>
+        </div>
+      </div>
+    </div>
+   
+  </section>
+   <!-- Gallery Section Start -->
+   <section class="Gallery" id="gallery">
+    <div class="content">
+      <div class="title"><span>My Work Gallery</span></div>
+      <div class="text">
+        
+    </div>
+  </div>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <div id="slider">
+    <div class="slide">
+      <img src="img3.jpg" alt="Image 1">
+    </div>
+    <div class="slide">
+      <img src="img4.jpg" alt="Image 2">
+    </div>
+    <div class="slide">
+        
+      <img src="img5.jpg" alt="Image 3">
+    </div>
+    <div class="slide">
+      <img src="img6.jpg" alt="Image 4">
+    </div>
+    <div class="slide">
+      <img src="img7.jpg" alt="Image 5">
+    </div>
+    <div class="slide">
+      <img src="img8.jpg" alt="Image 6">
+    </div>
+    <div class="slide">
+      <img src="img9.jpg" alt="Image 7">
+    </div>
+    <div class="slide">
+      <img src="img10.jpg" alt="Image 8">
+    </div>
+  </div>
+      
+          </section>
+
+
+  <!-- Contact Me Section Start -->
+  <section class="contact" id="contact">
+    <div class="content">
+      <div class="title"><span>Contact Me</span></div>
+      <div class="text">
+        <div class="topic">Have You Any Works?</div>
+        <div class="row text-center">
+	<div class="container">
+		
+	<form action="index.php" method="post">
+	<input type="text" name="firstname" placeholder="firstname"><br><br>
+	<input type="text" name="lastname" placeholder="lastname"><br><br>
+	<input type="gmail" name="gmail" placeholder="gmail"><br><br>
+	<input type="text" name="number" placeholder="number"><br><br>
+	<input type="text" name="address" placeholder="address"><br><br>
+	<input type="submit" name="submit" value="insert" class="btn"><br><br>
+	</form>
+<button><a href="show.php">show data</a></button>
+	</div>
+</div>   
+            
+        
+    
+  </div>
+</div>
+</div>
+<?php
+error_reporting(0);
+include 'connection.php';
+if (isset($_POST['submit'])) {
+	$firstname = $_POST['firstname'];
+	$lastname = $_POST['lastname'];
+	$gmail = $_POST['gmail'];
+	$number = $_POST['number'];
+	$address = $_POST['address'];
+	$sql = "INSERT INTO `reg` VALUES ('$id','$firstname','$lastname','$gmail','$number','$address')";
+	$data=mysqli_query($con,$sql);
+	if ($data) {
+		echo "insert";
+	}else
+	{
+		echo "sorry";
+	}
+}
+?>
+ 
+  </section>
+
+
+
+
+ <!-- Footer Section Start -->
+  <footer>
+    <div class="text">
+      &copy;copyright @<?php echo date('Y');?> by <span>Janeshi Senevirathna  </span>
+    </div>
+  </footer>
+
+  <script src="1.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+        
+    
+      
+
