@@ -1,4 +1,4 @@
-<!.....connect database.....>
+<!--connect database-->
 
 <?php
 // Enter your Host, username, password, database below.
